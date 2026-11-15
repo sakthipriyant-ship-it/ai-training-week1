@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Arun",
+        "salary": 30000
+    },
+    {
+        "name": "Priya",
+        "salary": 45000
+    },
+    {
+        "name": "Rahul",
+        "salary": 60000
+    },
+    {
+        "name": "Karthik",
+        "salary": 50000.0
+    }
+]
